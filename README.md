@@ -6,3 +6,4 @@ Here are some of the important topics of core python have been covered. With eve
 2. Lambda Expressions
 3. String Problems
 4. Lists Problems
+5. Miscellaneus

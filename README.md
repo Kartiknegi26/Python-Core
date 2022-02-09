@@ -8,3 +8,4 @@ Here are some of the important topics of core python have been covered. With eve
 4. Lists Problems
 5. Miscellaneus
 6. Miscellanues 2
+7. Dictionaries
